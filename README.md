@@ -1,7 +1,5 @@
-**BE-Capstone
 
-
-BE Capstone Project: E-commerce Product API**
+**BE Capstone Project: E-commerce Product API****
 
 ## Getting Started
 
